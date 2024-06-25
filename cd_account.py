@@ -1,4 +1,4 @@
-"""Import the Account class from the Account.py file."""
+import Account
 # ADD YOUR CODE HERE
 
 def create_cd_account(balance, interest_rate, months):
