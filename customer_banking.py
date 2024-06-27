@@ -28,12 +28,13 @@ def main():
     cd_interest = float(input("Enter the Annual Interest Rate - 'CD Account' : "))
     cd_maturity = int(input("Enter the number of months (maturity): "))
     # Call the create_cd_account function and pass the variables from the user.
-    updated_cd_balance, interest = create_cd_account(cd_balance, cd_interest, cd_maturity)
+    updated_cd_balance, interest_earned = create_cd_account(cd_balance, cd_interest, cd_maturity)
 
     # Print out the interest earned and updated CD account balance with interest earned for the given months.
     # ADD YOUR CODE HERE
-    print(f"Updated \'CD Account\' Balance: {updated_cd_balance:,.2f}")
-    print(f"Amount of Interest Earned: {interest:,.2f}%")
+    print(f"Updated CD Account Balance:  ${updated_cd_balance:.2f}")
+    print(f"Interest Earned: ${interest_earned:,.2f}")
+
 if __name__ == "__main__":
     # Call the main function.
     main()
