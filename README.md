@@ -1,5 +1,5 @@
 # Customer Banking Program
-<img src="bankingLogo.png" width="500" height="500">
+<img src="bankingLogo.png" width="600" height="500">
 Welcome to the Customer Banking Program. This program was created using Python in my fourth week as a Bootcamp student at the University of Chapel Hill - Artificial Intelligence. In this assignment, we were tasked with finalizing a customer banking app. 
 ## Overview / Inspiration
 My personal inspiration while completing this project was to provide as much user-friendly additions as possible while learning and incorportaing object oriented programming. During this project, the challenges that I overcame during this assingnment were:
