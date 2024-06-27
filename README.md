@@ -17,6 +17,14 @@ The functionalities of this app is designed to keep track of two accounts, a CD 
 2. Automatically calculates the interest earned on the account and updates the account balance.
 3. Displays the updated account balance to the user and the interest earned on the savings account. 
 4. The process repeates for the CD Account. 
-## Features
+## Program Features
+
+## Agile Practices
+While creating this program, I learned that there are many benefits to using classes and instances:
+* Modularity: Breaking larger code into smaller, more manageable parts.
+* Reusability: The use of classes and instances reduces redundancy in repeating code.
+* Encapsulation: Classes allow you to hold attributes and methods in one single place.
+* Readability: Object oriented programming promotes code that is easier to read, follow, and understand. 
+* Scalability: As the project grows, you can extend and modify classes without affecting the rerst of the code.
 ## References
 [How to calculate interest in a savings account](https://www.nerdwallet.com/article/banking/how-to-calculate-interest-in-a-savings-account#:~:text=The%20formula%20for%20calculating%20simple,one%2Dyear%20time%20periods)
