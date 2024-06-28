@@ -16,6 +16,7 @@ def main():
     stars = (len("Welcome to Your Personal Banking App!")+ 10) * "*"
     half_star = "*" * 4
     welcome_message = " Welcome to Your Personal Banking App! "
+
     def keep_going():
         nonlocal run
         while True:
@@ -31,15 +32,12 @@ def main():
                 print("\nPlease enter a valid option.")
            
     while run:
-       
-
-
-
         print(logo)
         print(stars)
         print(half_star + welcome_message + half_star)
         print(stars)
         print(space)
+        
         response = input("Calculate Interest Earned\n"
                          "-------------------------\n"
                          "Enter (1) for Savings Account\n"
@@ -55,9 +53,13 @@ def main():
         match response:
             case '1':
                 clear()
+
+                # Prompt the user to set the savings balance, interest rate, and months for the savings account.
+                # ADD YOUR CODE HERE
                 savings_balance = float(input("Enter 'Saving Account' Balance: "))
                 savings_interest = float(input("Enter Annual Interest Rate: "))
                 savings_maturity = int(input("Enter the estimated number of months: "))
+                
                 # Call the create_savings_account function and pass the variables from the user.
                 updated_saving_balance, interest_earned = create_savings_account(savings_balance, savings_interest, savings_maturity)
 
@@ -68,36 +70,32 @@ def main():
                 print(f"Interest Earned: ${interest_earned:,.2f}")
                 print(space)
                 keep_going()
+                
             case '2':
                 clear()
+
                 # Prompt the user to set the CD balance, interest rate, and months for the CD account.
                 # ADD YOUR CODE HERE
                 cd_balance = float(input("Enter 'CD Account' Balance: "))
                 cd_interest = float(input("Enter the Annual Interest Rate - 'CD Account' : "))
                 cd_maturity = int(input("Enter the number of months (maturity): "))
+
                 # Call the create_cd_account function and pass the variables from the user.
                 updated_cd_balance, interest_earned = create_cd_account(cd_balance, cd_interest, cd_maturity)
                 print(space)
+                
+                # Print out the interest earned and updated CD account balance with interest earned for the given months.
+                # ADD YOUR CODE HERE
                 print(f"Updated \'CD Account\' Balance:  ${updated_cd_balance:.2f}")
                 print(f"Interest Earned: ${interest_earned:,.2f}")
                 print(space)
                 keep_going()
                 
-        
             case _:
                 clear()
                 print("\nPlease enter a valid entry.\n"
                       "\n")
                 keep_going()
-        
-            
-            # Prompt the user to set the savings balance, interest rate, and months for the savings account.
-            # ADD YOUR CODE HERE
-
-            
-
-            # Print out the interest earned and updated CD account balance with interest earned for the given months.
-            # ADD YOUR CODE HERE
         
 if __name__ == "__main__":
     # Call the main function.

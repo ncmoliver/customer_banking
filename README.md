@@ -27,5 +27,6 @@ While creating this program, I learned that there are many benefits to using cla
 * Readability: Object oriented programming promotes code that is easier to read, follow, and understand. 
 * Scalability: As the project grows, you can extend and modify classes without affecting the rerst of the code.
 ## References
-[How to calculate interest in a savings account](https://www.nerdwallet.com/article/banking/how-to-calculate-interest-in-a-savings-account#:~:text=The%20formula%20for%20calculating%20simple,one%2Dyear%20time%20periods) - 
-[Xpert Leanring Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)
+[Xpert Leanring Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Used to debug code and navigate through challenge
+[ASCII Art Archive](https://www.asciiart.eu/) - Used to create program logo
+[Replit](https://ask.replit.com/t/clear-console-in-python/65265) - Referenced as a reminder to clear console
