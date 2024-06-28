@@ -1,12 +1,10 @@
 # Customer Banking Program
-<img src="bankingLogo.png" width="600" height="500">
-Welcome to the Customer Banking Program. This program was created using Python in my fourth week as a Bootcamp student at the University of Chapel Hill - Artificial Intelligence. In this assignment, we were tasked with finalizing a customer banking app. 
+<img src="bankingLogo1.png" width="600" height="500">
+
 
 ## Overview / Inspiration
-My personal inspiration while completing this project was to provide as much user-friendly additions as possible while learning and incorportaing object oriented programming. During this project, the challenges that I overcame during this assingnment were:
-    1. Connecting how a Class (assigned in one file), was able to truly become a blueprint for the other files. I learned that from setting this blueprint, it must be followed and adhered to in order to receive the expected output. 
-    I noticed that both files were executing the same functions, however I had trouble getting the output to display after returning the calculated interest and updated balance. 
-    2. Instances: Instances was a new topic for me. When creating an instance of the Account class, I learned how this can be used to almost reiterate the blueprint provided. 
+Welcome to the Customer Banking Program. This program was created using Python in my fourth week as a Bootcamp student at the University of Chapel Hill - Artificial Intelligence. In this assignment, we were tasked with finalizing a customer banking app. The program is designed to service two banking accounts, cd accound and savings account. With user input (balance, interest rate, maturity) the program, calculates the interest earned and returns the updated account balance and the amount of interest earned.  
+My personal inspiration while completing this project was to provide as much user-friendly additions as possible while learning and incorportaing functions, classes, and improving my skills with object oriented programming.  
 ## What It Does
 The functionalities of this app is designed to keep track of two accounts, a CD Account and a Savings Account. Two functions are used to calculate the interest earned on an account and update the account balance. 
 ## The Process
@@ -22,8 +20,7 @@ The functionalities of this app is designed to keep track of two accounts, a CD 
 * Menu Option: Menu options provided for user selection
 ## Learning Outcomes
 **Agile Pratices**    
-The use of functions and classes during this assingment really brought together the true concept of how a Class actually operates. As I continously looked through the code I realized what was happening.     
-The program incorporates Modularity, Reusability, and Encapsulation, which all promoote Agile Practices. Modularity in breaking the entire program down into smaller more manageable parts, through files organization, . Reusability show how large coding blocks can be replaced with functions which can be called at anytime. Encapsulation is being most challenging, intriuging, and powerful to me out of the three. For example, how classes hold both attributes and methods 
+The use of functions and classes during this assingment really brought together the true concept of how a Class operates. Classes incorporates Modularity, Reusability, and Encapsulation, which all promoote Agile Practices. Out of the three concepts, encapsulation was the most challenging, intriguing, and powerful to me. For instance, I found it fascinating how classes can contain both attributes and methods.
 ## References
 [Xpert Leanring Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Used to debug code and navigate through challenge    
 [ASCII Art Archive](https://www.asciiart.eu/) - Used to create program logo    
