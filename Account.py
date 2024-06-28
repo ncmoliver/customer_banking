@@ -16,5 +16,4 @@ class Account:
         """Sets the interest gained for the the account"""
         self.interest = interest
 
-    def get_balance (self):
-        return self.balance
+
