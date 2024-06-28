@@ -20,14 +20,6 @@ The functionalities of this app is designed to keep track of two accounts, a CD 
 ## Program Features
 * User Experience: Program is designed for easy user functionality. 
 * Menu Option: Menu options provided for user selection
-
-## Agile Practices
-While creating this program, I learned that there are many benefits to using classes and instances:
-* Modularity: Breaking larger code into smaller, more manageable parts.
-* Reusability: The use of classes and instances reduces redundancy in repeating code.
-* Encapsulation: Classes allow you to hold attributes and methods in one single place.
-* Readability: Object oriented programming promotes code that is easier to read, follow, and understand. 
-* Scalability: As the project grows, you can extend and modify classes without affecting the rerst of the code.
 ## Learning Outcomes
 **Agile Pratices**    
 The use of functions and classes during this assingment really brought together the true concept of how a Class actually operates. As I continously looked through the code I realized what was happening.     
