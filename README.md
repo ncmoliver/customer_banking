@@ -29,7 +29,8 @@ While creating this program, I learned that there are many benefits to using cla
 * Readability: Object oriented programming promotes code that is easier to read, follow, and understand. 
 * Scalability: As the project grows, you can extend and modify classes without affecting the rerst of the code.
 ## Learning Outcomes
-**Agile Pratices**: The use of functions and classes during this assingment really brought together the true concept of how a Class actually operates. As I continously looked through the code I realized what was happening.     
+**Agile Pratices**    
+The use of functions and classes during this assingment really brought together the true concept of how a Class actually operates. As I continously looked through the code I realized what was happening.     
 The program incorporates Modularity, Reusability, and Encapsulation, which all promoote Agile Practices. Modularity in breaking the entire program down into smaller more manageable parts, through files organization, . Reusability show how large coding blocks can be replaced with functions which can be called at anytime. Encapsulation is being most challenging, intriuging, and powerful to me out of the three. For example, how classes hold both attributes and methods 
 ## References
 [Xpert Leanring Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Used to debug code and navigate through challenge    
