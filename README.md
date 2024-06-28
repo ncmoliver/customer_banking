@@ -1,5 +1,5 @@
 # Customer Banking Program
-<img src="bankingLogo2.png" width="600" height="500">
+<img src="bankingLogo.gif" width="600" height="500">
 
 
 ## Overview / Inspiration
