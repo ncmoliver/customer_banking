@@ -2,7 +2,7 @@
 <p align="center">
 <img src="bankingLogo.gif" width="400" height="400">
 </p>
-<h2 > <b>Week 3 of Artifical Intelligence Bootcamp</b></h2>
+<h2> <b>Week 3 of Artifical Intelligence Bootcamp</b></h2>
 <p>This week we were tasked using a Class in python to create a banking program that calculates interest earned based on a customer's input.</p>
 <h2> 🗃️ Project Files </h2>
 
@@ -25,7 +25,10 @@
 
 <h2> 📝 Execution Steps </h2>
 <ol>
-    <li>If you have not done so already, CLONE git repository: </li> '''{ git clone https://github.com/ncmoliver/customer_banking.git}'''
+    <li>If you have not done so already, CLONE git repository: </li> 
+    '''
+    git clone https://github.com/ncmoliver/customer_banking.git
+    '''
     <li>RUN <b>customer_banking.py</b> to start the program.</li>
 </ol>
 <h2> :clipboard: References</h2>
