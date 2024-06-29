@@ -20,11 +20,12 @@
 
 <h2> 🌟 Features </h2>
 <b>Agile Practices</b> - Use of a class and functions to promote readability, reusability, and encapsulation.    
+
 <b>User-friendly</b> - Easy for users to interact with program.
 
 <h2> 📝 Execution Steps </h2>
 <ol>
-    <li>If you have not done so already, CLONE git repository: </li> > git clone https://github.com/ncmoliver/customer_banking.git
+    <li>If you have not done so already, CLONE git repository: </li> ''' git clone https://github.com/ncmoliver/customer_banking.git'''
     <li>RUN <b>customer_banking.py</b> to start the program.</li>
 </ol>
 <h2> :clipboard: References</h2>
