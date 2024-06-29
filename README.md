@@ -6,7 +6,8 @@
 ## Week 3: Artificial Intelligence Bootcamp
 This week we were tasked using a Class in python to create a banking program that calculates interest earned based on a customer's input.
 ## 🗃️ Project Files
-This program contains 1 executable file and 3 modular files.
+This program contains 1 executable file and 3 modular files 
+     
 **customer_banking.py | Executable**  
     The main project file which takes in user input and passes it through the class created in Account.py, which is imported into both cd_account.py and saving_account.py. Returning two values, the interest earned on the account and the updated acccount balance.
     <hr> 
