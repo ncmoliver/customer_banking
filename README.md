@@ -2,7 +2,7 @@
 <p align="center">
 <img src="bankingLogo.gif" width="400" height="400">
 </p>
-<p> <b>Week 3 of Artifical Bootcamp</b></p>
+<h2> <b>Week 3 of Artifical Bootcamp</b></h2>
 <p>This week we were tasked with creating a banking program that calculates interest earned based on a customer's input.</p>
 <h2> :floppy_disk: Project Files </h2>
 
