@@ -12,11 +12,13 @@ This program contains 1 executable file and 3 modular files
     The main project file which takes in user input and passes it through the class created in Account.py, which is imported into both cd_account.py and saving_account.py. Returning two values, the interest earned on the account and the updated acccount balance.
     <hr> 
 **Account.py | Modular File**    
-Holds all banking account functions, used in for calculating interest and updating account balance.
+Holds all banking account functions, used in for calculating interest and updating account balance.   
+
 **savings_account.py | Modular File**    
-Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's savings account and returns the interest earned and the updated account balance.    
+Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's savings account and returns the interest earned and the updated account balance.   
+
 **cd_account.py | Modular File**     
-Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's cd account and returns the interest earned and the updated account balance.
+Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's cd account and returns the interest earned and the updated account balance.    
 
 ## 🌟 Features 
 **Agile Practices** - Use of a class and functions to promote readability, reusability, and encapsulation.    
