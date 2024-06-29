@@ -14,7 +14,7 @@ This program contains 1 executable file and 3 modular files
 **Account.py | Modular File**    
 Holds all banking account functions, used in for calculating interest and updating account balance.
 **savings_account.py | Modular File**    
-Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's savings account and returns the interest earned and the updated account balance.
+Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's savings account and returns the interest earned and the updated account balance.    
 **cd_account.py | Modular File**     
 Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's cd account and returns the interest earned and the updated account balance.
 
