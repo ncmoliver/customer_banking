@@ -20,8 +20,8 @@
 </ul>
 <h2> 🌟 Features </h2>
 <ul>
-    <li>Agile Practices: Use of a class and functions to promote readability, reusability, and encapsulation.</li>
-    <li>User-friendly: Easy for users to interact with program.</li>
+    <li><b>Agile Practices:</b> Use of a class and functions to promote readability, reusability, and encapsulation.</li>
+    <li><b>User-friendly:</b> Easy for users to interact with program.</li>
 </ul>
 <h2> 📝 Execution Steps </h2>
 <ol>
