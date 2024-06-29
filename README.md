@@ -34,6 +34,3 @@
 
 
 </ul>
-   
-
-[Spam-Detector README.md](https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1)
