@@ -11,7 +11,7 @@
 <ul>
     <li><b>customer_banking.py | Executable </b></li>   
     The main project file which takes in user input and passes it through the class created in Account.py, which is imported into both cd_account.py and saving_account.py. Returning two values, the interest earned on the account and the updated acccount balance.
-    <hr> &nbsp;
+    <hr> 
     <li><b>Account.py | Modular File</b></li>    
     Holds all banking account functions, used in for calculating interest and updating account balance.
     <li><b>savings_account.py | Modular File</b></li> 
@@ -20,12 +20,12 @@
 
 <h2> 🌟 Features </h2>
 <b>Agile Practices</b> - Use of a class and functions to promote readability, reusability, and encapsulation.    
-
+&nbsp;
 <b>User-friendly</b> - Easy for users to interact with program.
 
 <h2> 📝 Execution Steps </h2>
 <ol>
-<li>If you have not done so already, CLONE git repository: <code> git clone https://github.com/ncmoliver/customer_banking.git</code></li> 
+<li>If you have not done so already, CLONE git repository:</li> <code> git clone https://github.com/ncmoliver/customer_banking.git</code>
 <li>RUN <b>customer_banking.py</b> to start the program.</li>
 </ol>
 <h2> :clipboard: References</h2>
