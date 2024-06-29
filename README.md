@@ -13,10 +13,10 @@
     The main project file which takes in user input and passes it through the class created in Account.py, which is imported into both cd_account.py and saving_account.py. Returning two values, the interest earned on the account and the updated acccount balance.
     <hr>
     <li><b>Account.py | Modular File</b></li>    
-    Holds all banking account functions, used in savings_account.py and cd_account.py.
+    Holds all banking account functions, used in for calculating interest and updating account balance.
     <li><b>savings_account.py | Modular File</b></li> 
-    Passes in user input into the Account class defined in Account.py to calculate interest earned on a customer's savings account.
-    <li><b>cd_account.py | Modular File</b></li> Passes in user input into the Account class defined in Account.py to calculate interest earned on a customer's cd account.
+    Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's savings account and returns the interest earned and the updated account balance.
+    <li><b>cd_account.py | Modular File</b></li> Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's cd account and returns the interest earned and the updated account balance.
 </ul>
 ## References
 [Xpert Leanring Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Used to debug code and navigate through challenge    
