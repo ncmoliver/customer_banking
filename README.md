@@ -1,27 +1,21 @@
-# Customer Banking Program
+<h1 align="center"> Customer Banking Program</h1>
+<p align="center">
 <img src="bankingLogo.gif" width="200" height="200">
+</p>
+<p> Week 3 of Artifical Bootcamp -: I was tasked with creating a banking program that calculates interest earned based on user input. </p>
+<h2> :floppy_disk: Project Files </h2>
 
-
-## Overview / Inspiration
-Welcome to the Customer Banking Program. This program was created using Python in my fourth week as a Bootcamp student at the University of Chapel Hill - Artificial Intelligence. In this assignment, we were tasked with finalizing a customer banking app. The program is designed to service two banking accounts, cd accound and savings account. With user input (balance, interest rate, maturity) the program, calculates the interest earned and returns the updated account balance and the amount of interest earned.  
-My personal inspiration while completing this project was to provide as much user-friendly additions as possible while learning and incorportaing functions, classes, and improving my skills with object oriented programming.  
-## What It Does
-The functionalities of this app is designed to keep track of two accounts, a CD Account and a Savings Account. Two functions are used to calculate the interest earned on an account and update the account balance. 
-## The Process
-1. The user is prompted to enter their Savings Account information
-    * Account Balance
-    * Interest Rate
-    * Maturity (months)
-2. Automatically calculates the interest earned on the account and updates the account balance.
-3. Displays the updated account balance to the user and the interest earned on the savings account. 
-4. The process repeates for the CD Account. 
-## Program Features
-* User Experience: Program is designed for easy user functionality. 
-* Menu Option: Menu options provided for user selection
-## Learning Outcomes
-**Agile Pratices**    
-The use of functions and classes during this assingment really brought together the true concept of how a Class operates. Classes incorporates Modularity, Reusability, and Encapsulation, which all promoote Agile Practices. Out of the three concepts, encapsulation was the most challenging, intriguing, and powerful to me. For instance, I found it fascinating how classes can contain both attributes and methods.
+<p> This file contains 1 executable file and 3 modular files. </p>
+<h3>Executable Files:</h3>
+<ul>
+    <li><b>customer_banking.py | Executable </b> - The main project file which takes in user input and passes it through the class created in Account.py, which is imported into both cd_account.py and saving_account.py. Returning two values, the interest earned on the account and the updated acccount balance.</li>
+<h3>Modular Files</h3>
+    <li><b>Account.py</b> - Holds all banking account functions, used in savings_account.py and cd_account.py</li>
+    <li><b>savings_account.py</b> - Passes in user input into the Account class defined in Account.py to calculate interest earned on a customer's savings account.</li>
+    <li><b>cd_account.py</b> - Passes in user input into the Account class defined in Account.py to calculate interest earned on a customer's cd account.</li>
+</ul>
 ## References
 [Xpert Leanring Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Used to debug code and navigate through challenge    
 [ASCII Art Archive](https://www.asciiart.eu/) - Used to create program logo    
 [Replit](https://ask.replit.com/t/clear-console-in-python/65265) - Referenced as a reminder to clear console
+[Spam-Detector README.md](https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1)
