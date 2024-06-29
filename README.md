@@ -25,10 +25,7 @@
 
 <h2> 📝 Execution Steps </h2>
 <ol>
-    <li>If you have not done so already, CLONE git repository: </li> 
-    '''
-    git clone https://github.com/ncmoliver/customer_banking.git
-    '''
+    <li>If you have not done so already, CLONE git repository: https://github.com/ncmoliver/customer_banking.git</li> 
     <li>RUN <b>customer_banking.py</b> to start the program.</li>
 </ol>
 <h2> :clipboard: References</h2>
