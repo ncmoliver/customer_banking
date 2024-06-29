@@ -9,7 +9,9 @@
 <h3>Executable Files:</h3>
 <ul>
     <li><b>customer_banking.py | Executable </b> - The main project file which takes in user input and passes it through the class created in Account.py, which is imported into both cd_account.py and saving_account.py. Returning two values, the interest earned on the account and the updated acccount balance.</li>
+</ul>
 <h3>Modular Files</h3>
+<ul>
     <li><b>Account.py</b> - Holds all banking account functions, used in savings_account.py and cd_account.py</li>
     <li><b>savings_account.py</b> - Passes in user input into the Account class defined in Account.py to calculate interest earned on a customer's savings account.</li>
     <li><b>cd_account.py</b> - Passes in user input into the Account class defined in Account.py to calculate interest earned on a customer's cd account.</li>
