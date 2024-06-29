@@ -26,10 +26,14 @@
 <h2> :clipboard: References</h2>
 <ul>
     <li><p>UNC Bootcamp Spot, 'Xpert Learning Assistant', [Online]</p></li>
-    <p>https://bootcampspot.instructure.com/courses/6028/external_tools/313</p>
-    <li>
+    <p>Source: https://bootcampspot.instructure.com/courses/6028/external_tools/313</p>
+    <li><p> 'ASCII Art Archive',  [Online]</p></li>
+    <p>Source: https://www.asciiart.eu/</p>
+    <li><p>Mohammad Amin Shamshiri, 'Span-Detector, README.md', [Online]</p></li>
+    <p>Source: https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1</p>
+
+
 </ul>
-[Xpert Leanring Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Used to debug code and navigate through challenge    
-[ASCII Art Archive](https://www.asciiart.eu/) - Used to create program logo    
-[Replit](https://ask.replit.com/t/clear-console-in-python/65265) - Referenced as a reminder to clear console
+   
+
 [Spam-Detector README.md](https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1)
