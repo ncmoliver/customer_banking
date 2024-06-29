@@ -18,7 +18,7 @@
     Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's savings account and returns the interest earned and the updated account balance.
     <li><b>cd_account.py | Modular File</b></li> Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's cd account and returns the interest earned and the updated account balance.
 </ul>
-<h2 style="color:blue"> 🌟 Features </h2>
+<h2 style="color: blue"> 🌟 Features </h2>
 
 <h2> 📝 Execution Steps </h2>
 <ol>
