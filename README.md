@@ -17,12 +17,11 @@
     <li><b>savings_account.py | Modular File</b></li> 
     Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's savings account and returns the interest earned and the updated account balance.
     <li><b>cd_account.py | Modular File</b></li> Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's cd account and returns the interest earned and the updated account balance.
-</ul>
+
 <h2> 🌟 Features </h2>
-<ul>
-    <li><b>Agile Practices:</b> Use of a class and functions to promote readability, reusability, and encapsulation.</li>
-    <li><b>User-friendly:</b> Easy for users to interact with program.</li>
-</ul>
+<b>Agile Practices</b> - Use of a class and functions to promote readability, reusability, and encapsulation.
+<b>User-friendly</b> - Easy for users to interact with program.
+
 <h2> 📝 Execution Steps </h2>
 <ol>
     <li>If you have not done so already, CLONE git repository: </li> > git clone https://github.com/ncmoliver/customer_banking.git
