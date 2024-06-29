@@ -2,9 +2,9 @@
 <p align="center">
 <img src="bankingLogo.gif" width="400" height="400">
 </p>
-<h2> <b>Week 3 of Artifical Intelligence Bootcamp</b></h2>
+<h2 align="center"> <b>Week 3 of Artifical Intelligence Bootcamp</b></h2>
 <p>This week we were tasked using a Class in python to create a banking program that calculates interest earned based on a customer's input.</p>
-<h2> :floppy_disk: Project Files </h2>
+<h2 align="center"> :floppy_disk: Project Files </h2>
 
 <p> This file contains 1 executable file and 3 modular files. </p>
 
