@@ -19,7 +19,7 @@
     <li><b>cd_account.py | Modular File</b></li> Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's cd account and returns the interest earned and the updated account balance.
 
 <h2> 🌟 Features </h2>
-<b>Agile Practices</b> - Use of a class and functions to promote readability, reusability, and encapsulation.
+<b>Agile Practices</b> - Use of a class and functions to promote readability, reusability, and encapsulation.    
 <b>User-friendly</b> - Easy for users to interact with program.
 
 <h2> 📝 Execution Steps </h2>
