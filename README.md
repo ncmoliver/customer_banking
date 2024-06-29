@@ -4,7 +4,7 @@
 </p>
 <h2 > <b>Week 3 of Artifical Intelligence Bootcamp</b></h2>
 <p>This week we were tasked using a Class in python to create a banking program that calculates interest earned based on a customer's input.</p>
-<h2> :floppy_disk: Project Files </h2>
+<h2> 🗃️ Project Files </h2>
 
 <p> This file contains 1 executable file and 3 modular files. </p>
 
