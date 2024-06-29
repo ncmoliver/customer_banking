@@ -1,6 +1,6 @@
 <h1 align="center"> Customer Banking Program</h1>
 <p align="center">
-<img src="bankingLogo.gif" width="200" height="200">
+<img src="bankingLogo.gif" width="400" height="400">
 </p>
 <p> <b>Week 3 of Artifical Bootcamp</b></p>
 <p>This week we were tasked with creating a banking program that calculates interest earned based on a customer's input.</p>
