@@ -23,7 +23,12 @@
     <li>If you have not done so already, CLONE git repository</li>
     <li>RUN <b>customer_banking.py</b> to start the program.</li>
 </ol>
-<h2>References</h2>
+<h2> :clipboard: References</h2>
+<ul>
+    <li><p>UNC Bootcamp Spot, 'Xpert Learning Assistant', [Online]</p></li>
+    <p>https://bootcampspot.instructure.com/courses/6028/external_tools/313</p>
+    <li>
+</ul>
 [Xpert Leanring Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Used to debug code and navigate through challenge    
 [ASCII Art Archive](https://www.asciiart.eu/) - Used to create program logo    
 [Replit](https://ask.replit.com/t/clear-console-in-python/65265) - Referenced as a reminder to clear console
