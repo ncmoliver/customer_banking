@@ -6,7 +6,7 @@
 <p>This week we were tasked using a Class in python to create a banking program that calculates interest earned based on a customer's input.</p>
 <h2> 🗃️ Project Files </h2>
 
-<p> This file contains 1 executable file and 3 modular files. </p>
+<p> This program contains 1 executable file and 3 modular files. </p>
 
 <ul>
     <li><b>customer_banking.py | Executable </b></li>   
@@ -36,6 +36,5 @@
     <p>Source: https://www.asciiart.eu/</p>
     <li><p>Mohammad Amin Shamshiri, 'Span-Detector, README.md', [Online]</p></li>
     <p>Source: https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1</p>
-
-
 </ul>
+![----------------------------]
