@@ -37,4 +37,6 @@
     <li><p>Mohammad Amin Shamshiri, 'Span-Detector, README.md', [Online]</p></li>
     <p>Source: https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1</p>
 </ul>
-![----------------------------]
+<hr>
+<h2>©️ Credits</h2>
+Marques K Oliver
