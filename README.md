@@ -39,7 +39,7 @@ Using an instance of the Account class, we pass in user input into to calculate 
 3. 😉 Enjoy!
 
 ## :clipboard: References
-[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)
+[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)     
 [Mohammad Amin Shamshiri | 'Spam-Detector Readme.md'](https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1)
 
 ## 📇 Credits 
