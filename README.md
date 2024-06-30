@@ -40,7 +40,8 @@ Using an instance of the Account class, we pass in user input into to calculate 
 
 ## :clipboard: References
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Assisted in debugging code and documentation.     
-[Mohammad Amin Shamshiri | 'Spam-Detector'](https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1) - Reference Readme.md    
+[Mohammad Amin Shamshiri | 'Spam-Detector'](https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1) - Reference Readme.md      
+[Markdown Cheatsheet](https://markdownguide.org/basic-syntax/#horizontal-rules)
 
 
 ## 📇 Credits 
