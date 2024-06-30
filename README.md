@@ -31,9 +31,8 @@ Using an instance of the Account class, we pass in user input into to calculate 
 | **Interactive GUI** | Visually appealing and easy for users to interact with program.|
 
 
-
 ## 📝 Execution Steps
-1. If you have not done so already, CLONE git repository:
+1. CLONE git repository:
 `git clone https://github.com/ncmoliver/customer_banking.git`    
 2. RUN **customer_banking.py** to start the program.</li>
 3. 😉 Enjoy!
