@@ -21,7 +21,7 @@ Using an instance of the Account class, we pass in user input into to calculate 
 Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's cd account and returns the interest earned and the updated account balance.    
 
 ## 🌟 Features 
-| First Header  | Second Header |
+| Feature  | Description |
 | ------------- | ------------- |
 | **Customizable Settings**  | Allow users to set the tool based on their own metrics.  |
 | **Multiple Account Support**  | Allow users to manage multiple accounts within one program.|
