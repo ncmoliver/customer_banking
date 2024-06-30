@@ -45,4 +45,7 @@ Using an instance of the Account class, we pass in user input into to calculate 
 
 
 ## 📇 Credits 
+[![Github Badge](https://img.shields.io/badge/Profile-brightgreen?style=flat-square&logoColor=gray&label=Github&link=https%3A%2F%2Fgithub.com%2Fncmoliver
+)](https://github.com/ncmoliver)
+
 Marques K Oliver
