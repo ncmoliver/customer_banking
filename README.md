@@ -3,7 +3,7 @@
 <img src="bankingLogo.gif" width="400" height="400">
 </p>
 
-## Week 3: Artificial Intelligence Bootcamp
+## 🔎 Project Overview
 This week we were tasked with using a Class in Python to create a banking program that calculates interest earned based on a customer's input. The program supports two banking accounts, a savings and a CD account, promotes clean code, and is easy to access and use. 
 ## 🗃️ Project Files
 This program contains 1 executable file and 3 modular files 
