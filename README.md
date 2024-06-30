@@ -52,5 +52,3 @@ Using an instance of the Account class, we pass in user input into to calculate 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-
-Marques K Oliver
