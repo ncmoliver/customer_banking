@@ -4,7 +4,7 @@
 </p>
 
 ## Week 3: Artificial Intelligence Bootcamp
-This week we were tasked using a Class in python to create a banking program that calculates interest earned based on a customer's input.
+This week we were tasked using a Class in python to create a banking program that calculates interest earned based on a customer's input. The program supports two banking accounts, a savings and cd account, promotes clean code, and easy to access and use.  
 ## 🗃️ Project Files
 This program contains 1 executable file and 3 modular files 
      
