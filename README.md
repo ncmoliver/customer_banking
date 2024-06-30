@@ -10,7 +10,7 @@ This program contains 1 executable file and 3 modular files
      
 **customer_banking.py | Executable**  
 The main project file takes user input and passes it through the class created in Account.py, which is imported into both cd_account.py and saving_account.py. Each function within the class returns two values, the interest earned on the account and the updated acccount balance.
-
+----
 **Account.py | Modular File**    
 Holds all banking account functions, used in for calculating interest and updating account balance.   
 
