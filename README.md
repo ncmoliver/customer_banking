@@ -42,11 +42,12 @@ Using an instance of the Account class, we pass in user input into to calculate 
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Assisted in debugging code and documentation.     
 [Mohammad Amin Shamshiri | 'Spam-Detector'](https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1) - Reference Readme.md      
 [Markdown Cheatsheet](https://markdownguide.org/basic-syntax/#horizontal-rules)
-
+[List of Badges, in Markdown](https://naereen.github.io/badges/)
 
 ## 📇 Credits 
 [![Github Badge](https://img.shields.io/badge/Profile-brightgreen?style=flat-square&logoColor=gray&label=Github&link=https%3A%2F%2Fgithub.com%2Fncmoliver
 )](https://github.com/ncmoliver)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Generic badge](https://img.shields.io/badge/LinkdN-ConnectNow-Red.svg)](https://www.linkedin.com/notifications/?filter=all)
 
 
