@@ -21,25 +21,25 @@ Using an instance of the Account class, we pass in user input into to calculate 
 Using an instance of the Account class, we pass in user input into to calculate interest earned on a customer's cd account and returns the interest earned and the updated account balance.    
 
 ## 🌟 Features 
+**Customizable Settings** - Allow users to set the tool based on their own metrics.
+
+**Multiple Account Support** - Allow users to manage multiple accounts within one program.    
+
 **Agile Practices** - Use of a class and functions to promote readability, reusability, and encapsulation.    
      
-**User-friendly** - Easy for users to interact with program.
+**Interactive GUI** - Visually appealing and easy for users to interact with program.    
+
+
+
 
 ## 📝 Execution Steps
-1. If you have not done so already, CLONE git repository:</li> 
-`git clone https://github.com/ncmoliver/customer_banking.git`
+1. If you have not done so already, CLONE git repository:
+`git clone https://github.com/ncmoliver/customer_banking.git`    
 2. RUN **customer_banking.py** to start the program.</li>
 3. 😉 Enjoy!
 
 ## :clipboard: References
-<ul>
-    <li><p>UNC Bootcamp Spot, 'Xpert Learning Assistant', [Online]</p></li>
-    <p>Source: https://bootcampspot.instructure.com/courses/6028/external_tools/313</p>
-    <li><p> 'ASCII Art Archive',  [Online]</p></li>
-    <p>Source: https://www.asciiart.eu/</p>
-    <li><p>Mohammad Amin Shamshiri, 'Span-Detector, README.md', [Online]</p></li>
-    <p>Source: https://github.com/ma-shamshiri/Spam-Detector/blob/master/README.md?plain=1</p>
-</ul>
+
 <hr>
 <h2>©️ Credits</h2>
 Marques K Oliver
